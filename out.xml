@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a mouid="0"
+   w="10" 
+   x="1" 
+   y="50" >
+  <b mouid="1">
+    <d mouid="3" />
+  </b>
+  <t mouid="2" />
+  <e mouid="4" t='hello' ><w/></e>
+</a>
